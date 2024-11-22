@@ -1,19 +1,19 @@
 # FINANCIAL PLANNER AND MANAGEMENT APPLICATION
 ## CSCI 414 GROUP PROJECT
-### PROBLEM IDEA :
+### PROBLEM IDEA:
 Implement a financial planner and management systems that allows users to track income, expenses, and budget.   
  
-Project Features 
+### PROJECT FEATURES:
 User signup and login 
 Track income and expenses 
 Create a budget with different categories 
 Generate reports such as spending habits, income history 
  
-Databases 
+### DATABASES:
 PostgreSQL 
 MongoDB 
  
-Technology Stack 
+### TECHNOLOGY STACK 
 Backend: python, flask 
 Frontend: HTML, CSS, JS 
 
