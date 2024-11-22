@@ -1,5 +1,6 @@
-# CSCI414_Project
-Problem Idea 
+# FINANCIAL PLANNER AND MANAGEMENT APPLICATION
+## CSCI 414 GROUP PROJECT
+### PROBLEM IDEA :
 Implement a financial planner and management systems that allows users to track income, expenses, and budget.   
  
 Project Features 
